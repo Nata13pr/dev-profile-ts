@@ -1,4 +1,4 @@
-import React, {FC} from "react";
+import  {FC} from "react";
 
 import "./index.css";
 import Avatar from "./components/Avatar/Avatar.tsx";
